@@ -1,0 +1,1 @@
+docker run -v $(pwd)/numerical/assignments:/home/julia/assignments -it numerical julia
