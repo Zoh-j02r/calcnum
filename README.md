@@ -1,0 +1,2 @@
+### Calcnum
+This repository holds the assignments for numerical analysis classes lectured by teacher Livia Souza Freire Grion at EESP-USP. My Linux distribution does not support Julia so I run it by using containers. To access julia environment just build the container and use the args inside init script. For acessing scripts inside the Julia cli, you can use `pwd("dir")` and `cd("dir")` to move around, to run a julia script, the `include()` command must be used.
