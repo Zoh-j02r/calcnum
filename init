@@ -1,1 +1,1 @@
-docker run -v $(pwd)/assignments:/home/julia/assignments -it numerical julia
+docker run -v $(pwd)/assignments:/home/julia/assignments -it calcnum julia
